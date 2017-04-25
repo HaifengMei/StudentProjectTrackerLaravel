@@ -26,13 +26,13 @@
 4. LAMP stack/ <a href="https://www.apachefriends.org/index.html">XAMP(Windows)</a>
 
 # Installation
-* Composer Install
-* Npm Install
-* Bower install
+* composer Install
+* npm Install
+* bower install
     * Bower install --save select2 (in gitBash)
 * npm run dev
 * Set enviroment
-    * duplicate .env.example and rename to .env in your root folder
+    * duplicate .env.example and rename to .env( if you are not using a file editor and is duplicating in windows file explorer, rename to .env.) in your root folder
     * run "php artisan key:generate
     * start your mysql server
     * create a database e.g studentprojecttracker
