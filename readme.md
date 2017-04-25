@@ -29,6 +29,7 @@
 * Composer Install
 * Npm Install
 * Bower install
+    *Bower install --save select2 (in gitBash)
 * Set enviroment
     * duplicate .env.example and rename to .env in your root folder
     * run "php artisan key:generate
