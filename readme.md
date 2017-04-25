@@ -13,7 +13,7 @@
     + Year
     + Github (source code link)
     + Upload (up to 100MB)
-    + Group Members (With publicly available profile images)
+    + Group Members (With publicly available profile images - only registered users can be selected)
     + Tags
 4. Registered Users Can leave comment
 5. Registered Users can view their dashboard for published, pending and rejected projects. 
