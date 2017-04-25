@@ -32,7 +32,6 @@
 * Set enviroment
     * duplicate .env.example and rename to .env in your root folder
     * run "php artisan key:generate
-    * copy generated key to .env file e.g APP_KEY = {generated_key}}
     * start your mysql server
     * create a database e.g studentprojecttracker
     * set database credentails in .env file e.g DB_DATABASE = studentprojecttracker, DB_USERNAME = root, DB_PASSWORD=
